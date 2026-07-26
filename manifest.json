@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "MOP Review Tool",
-  "version": "0.2.3",
-  "description": "Hides answers on MOP for easy retesting",
+  "version": "0.3.0",
+  "description": "Hides answers on MOP (Full Lengths & Question Banks) for easy retesting",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
